@@ -390,11 +390,11 @@ div .column__4 {
     flex-wrap: nowrap;
   }
 
-  .column__1 {
+  div .column__1 {
     text-align: 0;
   }
 
-  .column__3 {
+  div .column__3 {
     display: block
   }
 }
@@ -472,7 +472,7 @@ div .column__4 {
     transform: translateX(15%);
   }
 
-  .column__4 {
+  div .column__4 {
     display: block
   }
 }
