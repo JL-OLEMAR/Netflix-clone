@@ -562,7 +562,7 @@ div .column__4 {
     transform: translateX(16%);
   }
 
-  .column__1 {
+  div .column__1 {
     text-align: 0;
   }
 }
