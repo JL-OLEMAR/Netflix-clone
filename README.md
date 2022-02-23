@@ -6,7 +6,7 @@
 
 Deploy: [Clone Netflix](https://jl-olemar.github.io/Netflix-clone/)
 
-
+![giffy Olemar](https://cdn.sanity.io/images/42ldtbyz/production/c33700334066c08e03f77327f1248d7987b53372-850x540.jpg)
 
 ## 🖥 About
 
